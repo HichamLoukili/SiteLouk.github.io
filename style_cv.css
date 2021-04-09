@@ -1,7 +1,25 @@
 body{
-margin: 0;
-  background-color: green;
+  margin: 0;
+background-color:rgb(204, 0, 255);
 }
-.cv_dip {
-  
+header{
+margin:5px;
+
+}
+#imge {
+
+
+width:140px;
+height: 150px;
+position: relative;
+left: 5px;
+top:10px;
+}
+h2{
+margin: 10px;
+
+}
+footer{
+
+margin: 10px;
 }
